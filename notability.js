@@ -26,7 +26,7 @@ chxm1023 = {
        "subscription" : {
          "productId" : "com.gingerlabs.Notability.premium_subscription",
          "originalTransactionId" : "570001184068302",
-         "tier" : "premium",
+         "tier" : "pro",
          "refundedDate" : null,
          "refundedReason" : null,
          "isInBillingRetryPeriod" : false,
